@@ -1,0 +1,166 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profile_picture": "https://media.istockphoto.com/id/2168774111/vector/avatar-or-person-sign-profile-picture-portrait-icon-user-profile-symbol.jpg?s=612x612&w=0&k=20&c=6qw1LRG53z00RXJnVKQC58W7XnW2gdQfGBIR43E97Oc=",
+      "image_url": "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+      "caption": "Loving the view! 🌄",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "jane_doe",
+          "text": "So beautiful!"
+        },
+        {
+          "user": "alex123",
+          "text": "Wow!"
+        }
+      ],
+      "timestamp": "2025-04-18T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "username": "sarah_lee",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-a65yf_Su8lTKkH-z7w6LgMf3s3Z4EJHQR6odZzCxA2KzqgvXDIG1rU&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUBo2FqZU_VukJcbNZKwF9cj5FHesahWLMa-ID5uQow&s=10",
+      "caption": "My new puppy 🐶💕",
+      "likes": 250,
+      "comments": [],
+      "timestamp": "2025-04-18T15:00:00Z"
+    },
+    {
+      "id": "3",
+      "username": "saroo",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJrawGfyFGkTOwxBy4p7hERStCBFxrkiIDSMFgb_7Bt101kmmvHWDNkGe&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ8KbIdelZrtvTtEyCHILYxw6BhWy3VyRsLhOGxHS0Hnsir5PSlGCY3ash&s=10",
+      "caption": "My new car💕",
+      "likes": 250,
+      "comments": [],
+      "timestamp": "2025-04-18T16:00:00Z"
+    },
+    {
+      "id": "4",
+      "username": "gamer",
+      "profile_picture": "https://mixingimages.in/wp-content/uploads/2025/04/Insta-DP-For-Boys-2.jpg  ",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMakWz3G3JnOP3-qb8d_jC0_3sJPjDP-uv77iZjDhnsb3zGF5JupUj5Kw&s=10",
+      "caption": "I complete my game ",
+      "likes": 10,
+      "comments": []
+    },
+    {
+      "id": "1tTOGKHn1tE",
+      "username": "sathi",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQQfxCjEi3V0i5-myQPKo6YVqDBZ7lMp1vEfbCtT4z-w&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRr0V4T7Vyw3pCfEm0QY8cjkaGa5wvVSJjYkW4hrUEZuqIn8OA3Il5WK6&s=10",
+      "caption": "Beautiful ❤️💖",
+      "likes": 158,
+      "comments": [],
+      "Comments": []
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "username": "saroo_official",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaC1bp93BgLlCOc3kAo2n4tMS5_XUXSzUxx6OyfrGctA_0dgkySil6rxGn&s=10"
+    }
+  ],
+  "suggession": [
+    {
+      "id": "1",
+      "username": "sali_",
+      "profile_picture": "https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg"
+    },
+    {
+      "id": "2",
+      "username": "shree_sk",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gcjCc0sdjXQGfWTFVOuthMqJZavMKiTVd-n6DJKjpg&s=10"
+    },
+    {
+      "id": "3",
+      "username": "_aj_.",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIdSdm_LBOTRPdtoK2AX7gE25P1Yi8Mnc0kVY5ac0BHQ&s"
+    },
+    {
+      "id": "4",
+      "username": "_riya_20.",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIiT9Ylw_PB2FboLY-ij7NrOT8VEMWatlFlOeCzmgsBejA3d_DGXzZRBv&s=10"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtHx6U49h7fk3RBunA5D-sfOjWKp5bowHZRPb1azm_-4ITUaROY4R27c&s=10",
+      "image_url": "https://media.istockphoto.com/id/2166651330/photo/grand-teton-mountains-from-oxbow-bend-on-the-snake-river-at-sunrise-grand-teton-national-park.jpg?s=612x612&w=0&k=20&c=NmPOaN3nhEfowD1xOdV_z2X5CdsjBTPwSncbvji1saw="
+    },
+    {
+      "id": "2",
+      "username": "sathi",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQQfxCjEi3V0i5-myQPKo6YVqDBZ7lMp1vEfbCtT4z-w&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRr0V4T7Vyw3pCfEm0QY8cjkaGa5wvVSJjYkW4hrUEZuqIn8OA3Il5WK6&s=10"
+    },
+    {
+      "id": "3",
+      "username": "saroo_official",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaC1bp93BgLlCOc3kAo2n4tMS5_XUXSzUxx6OyfrGctA_0dgkySil6rxGn&s=10",
+      "image_url": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGhvdG9ncmFwaGVyfGVufDB8fDB8fHww"
+    },
+    {
+       "id": "4",
+      "username": "sarah_lee",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-a65yf_Su8lTKkH-z7w6LgMf3s3Z4EJHQR6odZzCxA2KzqgvXDIG1rU&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUBo2FqZU_VukJcbNZKwF9cj5FHesahWLMa-ID5uQow&s=10"
+    },
+    {
+      "id": "5",
+      "username": "saroo",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJrawGfyFGkTOwxBy4p7hERStCBFxrkiIDSMFgb_7Bt101kmmvHWDNkGe&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ8KbIdelZrtvTtEyCHILYxw6BhWy3VyRsLhOGxHS0Hnsir5PSlGCY3ash&s=10"
+    }
+  ],
+  "followers": [
+    {
+      "id": "2",
+      "username": "shree_sk",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gcjCc0sdjXQGfWTFVOuthMqJZavMKiTVd-n6DJKjpg&s=10"
+    },
+    {
+      "id": "2",
+      "username": "shree_sk",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gcjCc0sdjXQGfWTFVOuthMqJZavMKiTVd-n6DJKjpg&s=10"
+    },
+    {
+      "id": "1",
+      "username": "sali_",
+      "profile_picture": "https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg"
+    },
+    {
+      "id": "da5XgBMiKas",
+      "profile_picture": "https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg",
+      "username": "sali_"
+    },
+    {
+      "id": "6DueqeS_8ig",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gcjCc0sdjXQGfWTFVOuthMqJZavMKiTVd-n6DJKjpg&s=10",
+      "username": "shree_sk"
+    },
+    {
+      "id": "m_q59YYLMPM",
+      "profile_picture": "https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg",
+      "username": "sali_"
+    },
+    {
+      "id": "Evxw11Mj09E",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIdSdm_LBOTRPdtoK2AX7gE25P1Yi8Mnc0kVY5ac0BHQ&s",
+      "username": "_aj_."
+    },
+    {
+      "id": "BP981LEqAuU",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gcjCc0sdjXQGfWTFVOuthMqJZavMKiTVd-n6DJKjpg&s=10",
+      "username": "shree_sk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

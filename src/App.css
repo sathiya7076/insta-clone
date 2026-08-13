@@ -1,0 +1,299 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+body {
+  overflow-x: hidden;
+}
+.row{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 0 !important;
+}
+.navbar{
+  margin-top: 20px;
+  background-color: aquamarine;
+  
+  right: 0;
+  padding: 0;
+  width: 200px;
+  height: 500px;
+  background-color: rgb(247, 244, 244);
+  position: relative;
+}
+.logo:hover .home{
+ margin-top: 13px;
+  width: 160px;
+ background-color: rgba(230, 235, 235, 0.904);
+}
+
+
+.icons{
+  margin-top: 10px;
+  position: absolute;
+  top: 0;
+  width: 40px !important;
+  height: 30px !important;
+  margin-left: 20px;
+  color: rgb(29, 5, 5);
+}
+.icon{
+  height: 30px;
+  width: 30px;
+}
+.logo{
+  margin-top: 40px;
+}
+.home{
+margin-top: 15px;
+  padding-bottom: 10px;
+   padding-top: 10px;
+  padding-left: 5px;
+  border-radius: 5px;
+  color:black;
+  display: flex;
+  margin-left: 20px;
+}
+.ptext{
+  color: black;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+
+
+
+
+
+.divstory{
+  margin-top: px;
+ display: flex;
+   height: 130px;
+   overflow: hidden;
+   overflow-x: scroll ;
+   scrollbar-width: none;
+  
+}
+.divposts{
+  
+ 
+  min-height: 900px;
+}
+
+.photo{
+  margin-left: 20px;
+  padding: 10px;
+  display: flex;
+  align-items: flex-start;
+  margin-top: 5px;
+  width: 70px ;
+  height: 70px;
+  border-radius: 50px;
+}
+.peru{
+  margin-top: -50px;
+  margin-left: 90px;
+  display: flex;
+  
+}
+.postimg{
+  margin-top: 20px;
+  width: 500px;
+  min-height:350px ;
+overflow: hidden;
+}
+.capt{
+  margin-left: 10px;
+  display: flex;
+}
+.like{
+  margin: 10px;
+  display: flex;
+}
+.navlist1{
+  position: fixed;
+}
+.proimg{
+
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+.proimg img{
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+}
+.proimg p{
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.swt{
+  margin-left: 80px;
+}
+
+.sugg{
+  margin-left: 20px;
+  margin-top: 30px;
+}
+.foll{
+  margin-top: 25px;
+  margin-left: 40px;
+  padding-left: 100px;
+}
+.noti{
+  display: flex;
+  margin-top: 50px;
+  
+}
+.asds{
+  position: fixed;
+}
+.follower1{
+
+display: flex;
+}
+.follower1 p{
+  width: 30px !important;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.follower1 img{
+  margin-top: 30px;
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+}
+.new3{
+
+ display: flex;
+ justify-content: center;
+}
+.newfol{
+  text-decoration: none;
+   right:0;
+margin-left: 150px;
+height: 30px;
+margin-right: 0px;
+  width: 80px;
+  border-radius: 8px;
+  border: 1px solid black;
+  background-color: blue;
+  color: white;
+  margin-top: 30px;
+ 
+}
+
+.box1{
+position: relative;
+}
+.two{
+  position: absolute;
+  left: -760px;
+ 
+  
+}
+.onep{
+ margin-top: 15px;
+ font-size: 30px;
+}
+.instapro img{
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+}
+.two input{
+  margin-top: 20px;
+  height: 40px;
+  color: rgb(0, 174, 255);
+  width: 1000px;
+  margin-left: 750px;
+}
+.two button{
+  margin-top: 20px;
+  width: 100px;
+  border-radius: 10px;
+  height: 40px;
+  margin-right: 40px;
+  background-color: blue;
+  color: aliceblue;
+}
+.profsug{
+  
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.profsug p{
+  margin-left: 40px;
+padding: 50px 0px 0px 190px;
+}
+
+.followerimg img{
+  margin-top: 240px;
+  margin: 40px 0px 60px  0px;
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  margin-right: 40px;
+}
+.sadiv{
+  margin-top: 0px;
+}
+.followerimgp{
+margin-top: -100px;
+  margin-left: 150px;
+}
+.followerbtn{
+  margin-top: -20px !important;
+ position: absolute;
+ bottom:3x ;
+ left: 450px;
+ 
+  margin-left: 670px;
+font-weight: 400;
+border: 1px solid rgba(0, 0, 0, 0.432) ;
+width: 100px;
+height: 40px;
+border-radius: 5px;
+text-align: center;
+padding-top:4px ;
+}
+.posts label{
+font-style: bold;
+width: 100px;
+}
+.posts input{
+  border: 1px solid rgba(0, 0, 0, 0.658);
+  border-radius: 4px;
+  margin-bottom: 5px;
+
+}
+
+.insstory img{
+  padding-top: -10px;
+  margin-top: 2px !important;
+  margin: 20px;
+  margin-bottom: 3px ;
+  height: 98px;
+  border-radius: 70px;
+  border: 4px solid rgb(224, 7, 79);
+  width: 98px;
+}
