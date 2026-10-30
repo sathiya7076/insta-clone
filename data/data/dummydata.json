@@ -108,7 +108,7 @@
       "image_url": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGhvdG9ncmFwaGVyfGVufDB8fDB8fHww"
     },
     {
-       "id": "4",
+      "id": "4",
       "username": "sarah_lee",
       "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-a65yf_Su8lTKkH-z7w6LgMf3s3Z4EJHQR6odZzCxA2KzqgvXDIG1rU&s=10",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUBo2FqZU_VukJcbNZKwF9cj5FHesahWLMa-ID5uQow&s=10"
@@ -118,6 +118,12 @@
       "username": "saroo",
       "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJrawGfyFGkTOwxBy4p7hERStCBFxrkiIDSMFgb_7Bt101kmmvHWDNkGe&s=10",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ8KbIdelZrtvTtEyCHILYxw6BhWy3VyRsLhOGxHS0Hnsir5PSlGCY3ash&s=10"
+    },
+    {
+      "id": "6",
+      "username": "sathiya",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjs9daKKSahb1atV2gzdg1NRV9Ka24XTNGRU32WiFGrA&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WL29j9fBDz0YC0b-PxwXtZuxUFheiWN4U3t-z8ILz-4vUerjumoEfmM&s=10"
     }
   ],
   "followers": [
@@ -160,6 +166,15 @@
       "id": "BP981LEqAuU",
       "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gcjCc0sdjXQGfWTFVOuthMqJZavMKiTVd-n6DJKjpg&s=10",
       "username": "shree_sk"
+    }
+  ],
+  "Reels":[
+    {
+      
+      "id": "1",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gcjCc0sdjXQGfWTFVOuthMqJZavMKiTVd-n6DJKjpg&s=10",
+      "username": "shree_sk",
+      "video_url": ""
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

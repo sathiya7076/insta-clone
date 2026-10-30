@@ -6,6 +6,7 @@ import App from './App.jsx'
 import Profile from './Component/Profile.jsx'
 import Addpost from './Component/Addpost.jsx'
 import Storyview from './Component/Storyview.jsx'
+import Reels from './Component/Reels.jsx'
 
 const router=createBrowserRouter(
   [
@@ -23,7 +24,11 @@ const router=createBrowserRouter(
     },
     {
      path: "Story/:id/:tot",
-      element:<Storyview></Storyview>
+      element:<Storyview ></Storyview>
+    },
+    {
+      path:"/Reels",
+      element:<Reels></Reels>
     }
   ]
 )
